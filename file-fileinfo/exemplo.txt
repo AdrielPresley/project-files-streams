@@ -1,0 +1,4 @@
+Está é a linha 1 do arquivo.txt
+Está é a linha 2 do arquivo.txt
+Está é a linha 3 do arquivo.txt
+Está é a linha 4 do arquivo.txt
